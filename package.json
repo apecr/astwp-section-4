@@ -1,0 +1,13 @@
+{
+  "name": "section4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "python -m unittest discover -s blog -p *test.py",
+    "install": "pip install -r app/requirements.txt",
+    "sonar": "sonar-scanner"
+  },
+  "author": "",
+  "license": "ISC"
+}
