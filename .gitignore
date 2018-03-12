@@ -20,7 +20,7 @@ htmlcov/
 .coverage
 .coverage.*
 *,cover
-
+coverage-reports
 
 .vscode
 .scannerwork
